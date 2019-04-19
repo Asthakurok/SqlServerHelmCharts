@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  spring-cloud-data-flow:
+  - apiVersion: v1
+    appVersion: 2.0.0.RELEASE
+    created: 2019-04-19T12:13:09.750553709+05:30
+    description: Toolkit for building data processing pipelines.
+    digest: 8d91aceea8cc4efdd87a3cb1fde95f884e7237d63d289bbef92a4686beff5ee6
+    home: http://cloud.spring.io/spring-cloud-dataflow/
+    icon: https://raw.githubusercontent.com/spring-cloud/spring-cloud-dataflow/master/spring-cloud-dataflow-docs/src/main/docbook/images/logo.png
+    maintainers:
+    - email: trisberg@pivotal.io
+      name: trisberg
+    - email: cschaefer@pivotal.io
+      name: chrisjs
+    name: spring-cloud-data-flow
+    sources:
+    - https://github.com/spring-cloud/spring-cloud-dataflow
+    - https://github.com/spring-cloud/spring-cloud-skipper
+    urls:
+    - spring-cloud-data-flow-2.0.0.tgz
+    version: 2.0.0
+generated: 2019-04-19T12:13:09.741365825+05:30
